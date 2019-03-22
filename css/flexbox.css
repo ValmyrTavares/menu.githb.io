@@ -1,0 +1,32 @@
+.cabecalho{
+    display:flex;
+    justify-content:space-around;
+    align-items:top;
+
+}
+.botoes{
+    display:flex;
+    align-items:top;
+}
+
+.home{
+    display:flex;
+    flex-direction:column;
+}
+.mim{
+    display:flex;
+    flex-direction:column;
+}
+.premio{
+    display:flex;
+    flex-direction:column;
+}
+.noticias{
+    display:flex;
+    flex-direction:column;
+}
+
+.contato{
+    display:flex;
+    flex-direction:column;
+}
